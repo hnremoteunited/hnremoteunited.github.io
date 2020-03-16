@@ -18,3 +18,12 @@
 
   </div>
 </article>
+<h1>About</h1>
+
+  <div class="entry">
+    <p>HN Remote United was spawned from a <a href="https://news.ycombinator.com/item?id=22569404">post on Hacker News</a> as a free online workspace for workers who suddenly found themselves remote workers because of the <a href="https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic">2019-20 Coronavirus Pandemic</a>, and who miss the social aspect of the office.</p>
+
+<p>It’s a space where one can join any of the voice- or text chats and talk to others who are in the same situaton.</p>
+
+
+  </div>
