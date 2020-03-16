@@ -8,3 +8,4 @@ HN Remote United was spawned from a [post on Hacker News](https://news.ycombinat
 
 It's a space where one can join any of the voice- or text chats and talk to others who are in the same situaton.
 
+Channel set up by [romes](https://medium.com/@rodrigo.m.mesquita), and [simonskoog](https://news.ycombinator.com/user?id=simonskoog) fiddled around with github pages.
