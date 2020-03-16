@@ -25,6 +25,7 @@
 
 <p>It’s a space where one can join any of the voice- or text chats and talk to others who are in the same situaton.</p>
 
-<p>Channel set up by <a href="https://medium.com/@rodrigo.m.mesquita">romes</a>, <a href="https://news.ycombinator.com/user?id=simonskoog">simonskoog</a> fiddled around with github pages. 
+<p>Channel set up by <a href="https://medium.com/@rodrigo.m.mesquita">romes</a>, <a href="https://news.ycombinator.com/user?id=simonskoog">simonskoog</a> fiddled around with github pages.</p>
+
 
   </div>
