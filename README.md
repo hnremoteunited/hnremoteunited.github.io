@@ -18,15 +18,3 @@
 
   </div>
 </article>
-
-        </div>
-      </div>
-
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            
-<a href="mailto:hnremoteunited@skoog.com"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/hnremoteunited/hnremoteunited.github.io"><i class="svg-icon github"></i></a>
